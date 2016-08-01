@@ -2,8 +2,8 @@
 //  TimelineTests.swift
 //  TimelineTests
 //
-//  Created by Caleb Hicks on 5/24/16.
-//  Copyright © 2016 DevMountain. All rights reserved.
+//  Created by Natalie Lim on 7/28/16.
+//  Copyright © 2016 Dianatalie. All rights reserved.
 //
 
 import XCTest

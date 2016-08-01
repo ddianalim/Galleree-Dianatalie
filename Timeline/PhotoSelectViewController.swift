@@ -2,8 +2,8 @@
 //  PhotoSelectViewController.swift
 //  Timeline
 //
-//  Created by Caleb Hicks on 5/25/16.
-//  Copyright © 2016 DevMountain. All rights reserved.
+//  Created by Natalie Lim on 7/28/16.
+//  Copyright © 2016 Dianatalie. All rights reserved.
 //
 
 import UIKit

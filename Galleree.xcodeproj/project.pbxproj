@@ -31,7 +31,6 @@
 		68AA93231CF68A020006A751 /* PostDetailTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68AA93221CF68A020006A751 /* PostDetailTableViewController.swift */; };
 		68AA93251CF68A1A0006A751 /* AddPostTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68AA93241CF68A1A0006A751 /* AddPostTableViewController.swift */; };
 		68AA932B1CF68ECD0006A751 /* PhotoSelectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68AA932A1CF68ECD0006A751 /* PhotoSelectViewController.swift */; };
-		68B4B04C1D05BD7A00EE2D88 /* CloudKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68B4B04B1D05BD7A00EE2D88 /* CloudKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,16 +54,16 @@
 		68199A871D007F96001C6FAE /* Timeline.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Timeline.entitlements; sourceTree = "<group>"; };
 		681DF3CD1D0733EB00A4AB75 /* SyncableObject+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SyncableObject+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		681DF3CE1D0733EB00A4AB75 /* SyncableObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SyncableObject.swift; sourceTree = "<group>"; };
-		682FA4D31CF5427500B81932 /* GallereeHome.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GallereeHome.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		682FA4D31CF5427500B81932 /* Galleree.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Galleree.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		682FA4D61CF5427500B81932 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		682FA4DB1CF5427500B81932 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		682FA4DD1CF5427500B81932 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		682FA4E01CF5427500B81932 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		682FA4E21CF5427500B81932 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		682FA4E71CF5427500B81932 /* GallereeHome.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GallereeHome.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		682FA4E71CF5427500B81932 /* Galleree.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Galleree.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		682FA4EB1CF5427500B81932 /* TimelineTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimelineTests.swift; sourceTree = "<group>"; };
 		682FA4ED1CF5427500B81932 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		682FA4F21CF5427500B81932 /* GallereeHome.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GallereeHome.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		682FA4F21CF5427500B81932 /* Galleree.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Galleree.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		682FA4F61CF5427500B81932 /* TimelineUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimelineUITests.swift; sourceTree = "<group>"; };
 		682FA4F81CF5427500B81932 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		68402B561CF93CB000EECEF3 /* CloudKitManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CloudKitManager.swift; sourceTree = "<group>"; };
@@ -83,7 +82,7 @@
 		68AA93221CF68A020006A751 /* PostDetailTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostDetailTableViewController.swift; sourceTree = "<group>"; };
 		68AA93241CF68A1A0006A751 /* AddPostTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddPostTableViewController.swift; sourceTree = "<group>"; };
 		68AA932A1CF68ECD0006A751 /* PhotoSelectViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoSelectViewController.swift; sourceTree = "<group>"; };
-		68B4B04B1D05BD7A00EE2D88 /* CloudKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CloudKit.framework; path = System/Library/Frameworks/CloudKit.framework; sourceTree = SDKROOT; };
+		F07AB8EE1D4FC6BE006D1535 /* Galleree.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Galleree.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,7 +90,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				68B4B04C1D05BD7A00EE2D88 /* CloudKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -115,6 +113,7 @@
 		682FA4CA1CF5427500B81932 = {
 			isa = PBXGroup;
 			children = (
+				F07AB8EE1D4FC6BE006D1535 /* Galleree.entitlements */,
 				682FA4D51CF5427500B81932 /* Sources */,
 				9D6CD0241CFC8F580002C64B /* Resources */,
 				9D6CD0231CFC8F470002C64B /* Frameworks */,
@@ -127,9 +126,9 @@
 		682FA4D41CF5427500B81932 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				682FA4D31CF5427500B81932 /* GallereeHome.app */,
-				682FA4E71CF5427500B81932 /* GallereeHome.xctest */,
-				682FA4F21CF5427500B81932 /* GallereeHome.xctest */,
+				682FA4D31CF5427500B81932 /* Galleree.app */,
+				682FA4E71CF5427500B81932 /* Galleree.xctest */,
+				682FA4F21CF5427500B81932 /* Galleree.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -213,7 +212,6 @@
 		9D6CD0231CFC8F470002C64B /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				68B4B04B1D05BD7A00EE2D88 /* CloudKit.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -267,9 +265,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		682FA4D21CF5427500B81932 /* GallereeHome */ = {
+		682FA4D21CF5427500B81932 /* Galleree */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 682FA4FB1CF5427500B81932 /* Build configuration list for PBXNativeTarget "GallereeHome" */;
+			buildConfigurationList = 682FA4FB1CF5427500B81932 /* Build configuration list for PBXNativeTarget "Galleree" */;
 			buildPhases = (
 				682FA4CF1CF5427500B81932 /* Sources */,
 				682FA4D01CF5427500B81932 /* Frameworks */,
@@ -279,14 +277,14 @@
 			);
 			dependencies = (
 			);
-			name = GallereeHome;
+			name = Galleree;
 			productName = Timeline;
-			productReference = 682FA4D31CF5427500B81932 /* GallereeHome.app */;
+			productReference = 682FA4D31CF5427500B81932 /* Galleree.app */;
 			productType = "com.apple.product-type.application";
 		};
-		682FA4E61CF5427500B81932 /* GallereeHomeTests */ = {
+		682FA4E61CF5427500B81932 /* GallereeTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 682FA4FE1CF5427500B81932 /* Build configuration list for PBXNativeTarget "GallereeHomeTests" */;
+			buildConfigurationList = 682FA4FE1CF5427500B81932 /* Build configuration list for PBXNativeTarget "GallereeTests" */;
 			buildPhases = (
 				682FA4E31CF5427500B81932 /* Sources */,
 				682FA4E41CF5427500B81932 /* Frameworks */,
@@ -297,14 +295,14 @@
 			dependencies = (
 				682FA4E91CF5427500B81932 /* PBXTargetDependency */,
 			);
-			name = GallereeHomeTests;
+			name = GallereeTests;
 			productName = TimelineTests;
-			productReference = 682FA4E71CF5427500B81932 /* GallereeHome.xctest */;
+			productReference = 682FA4E71CF5427500B81932 /* Galleree.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		682FA4F11CF5427500B81932 /* GallereeHomeUITests */ = {
+		682FA4F11CF5427500B81932 /* GallereeUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 682FA5011CF5427500B81932 /* Build configuration list for PBXNativeTarget "GallereeHomeUITests" */;
+			buildConfigurationList = 682FA5011CF5427500B81932 /* Build configuration list for PBXNativeTarget "GallereeUITests" */;
 			buildPhases = (
 				682FA4EE1CF5427500B81932 /* Sources */,
 				682FA4EF1CF5427500B81932 /* Frameworks */,
@@ -315,9 +313,9 @@
 			dependencies = (
 				682FA4F41CF5427500B81932 /* PBXTargetDependency */,
 			);
-			name = GallereeHomeUITests;
+			name = GallereeUITests;
 			productName = TimelineUITests;
-			productReference = 682FA4F21CF5427500B81932 /* GallereeHome.xctest */;
+			productReference = 682FA4F21CF5427500B81932 /* Galleree.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -328,14 +326,14 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0730;
-				ORGANIZATIONNAME = DevMountain;
+				ORGANIZATIONNAME = "";
 				TargetAttributes = {
 					682FA4D21CF5427500B81932 = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = 74D5U6H7T7;
+						DevelopmentTeam = QF7DSRY6RV;
 						SystemCapabilities = {
 							com.apple.iCloud = {
-								enabled = 1;
+								enabled = 0;
 							};
 						};
 					};
@@ -349,7 +347,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 682FA4CE1CF5427500B81932 /* Build configuration list for PBXProject "GallereeHome" */;
+			buildConfigurationList = 682FA4CE1CF5427500B81932 /* Build configuration list for PBXProject "Galleree" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -362,9 +360,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				682FA4D21CF5427500B81932 /* GallereeHome */,
-				682FA4E61CF5427500B81932 /* GallereeHomeTests */,
-				682FA4F11CF5427500B81932 /* GallereeHomeUITests */,
+				682FA4D21CF5427500B81932 /* Galleree */,
+				682FA4E61CF5427500B81932 /* GallereeTests */,
+				682FA4F11CF5427500B81932 /* GallereeUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -444,12 +442,12 @@
 /* Begin PBXTargetDependency section */
 		682FA4E91CF5427500B81932 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 682FA4D21CF5427500B81932 /* GallereeHome */;
+			target = 682FA4D21CF5427500B81932 /* Galleree */;
 			targetProxy = 682FA4E81CF5427500B81932 /* PBXContainerItemProxy */;
 		};
 		682FA4F41CF5427500B81932 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 682FA4D21CF5427500B81932 /* GallereeHome */;
+			target = 682FA4D21CF5427500B81932 /* Galleree */;
 			targetProxy = 682FA4F31CF5427500B81932 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -563,12 +561,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_ENTITLEMENTS = Timeline/Timeline.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = Timeline/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.didilim.GallereeHome;
-				PRODUCT_NAME = GallereeHome;
+				PRODUCT_BUNDLE_IDENTIFIER = com.didilim.Galleree;
+				PRODUCT_NAME = Galleree;
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -576,12 +576,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_ENTITLEMENTS = Timeline/Timeline.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = Timeline/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.didilim.GallereeHome;
-				PRODUCT_NAME = GallereeHome;
+				PRODUCT_BUNDLE_IDENTIFIER = com.didilim.Galleree;
+				PRODUCT_NAME = Galleree;
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
@@ -592,8 +594,8 @@
 				INFOPLIST_FILE = TimelineTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.devmtn.TimelineTests;
-				PRODUCT_NAME = GallereeHome;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/GallereeHome.app/GallereeHome";
+				PRODUCT_NAME = Galleree;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Galleree.app/Galleree";
 			};
 			name = Debug;
 		};
@@ -604,8 +606,8 @@
 				INFOPLIST_FILE = TimelineTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.devmtn.TimelineTests;
-				PRODUCT_NAME = GallereeHome;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/GallereeHome.app/GallereeHome";
+				PRODUCT_NAME = Galleree;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Galleree.app/Galleree";
 			};
 			name = Release;
 		};
@@ -615,7 +617,7 @@
 				INFOPLIST_FILE = TimelineUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.devmtn.TimelineUITests;
-				PRODUCT_NAME = GallereeHome;
+				PRODUCT_NAME = Galleree;
 				TEST_TARGET_NAME = Timeline;
 			};
 			name = Debug;
@@ -626,7 +628,7 @@
 				INFOPLIST_FILE = TimelineUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.devmtn.TimelineUITests;
-				PRODUCT_NAME = GallereeHome;
+				PRODUCT_NAME = Galleree;
 				TEST_TARGET_NAME = Timeline;
 			};
 			name = Release;
@@ -634,7 +636,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		682FA4CE1CF5427500B81932 /* Build configuration list for PBXProject "GallereeHome" */ = {
+		682FA4CE1CF5427500B81932 /* Build configuration list for PBXProject "Galleree" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				682FA4F91CF5427500B81932 /* Debug */,
@@ -643,7 +645,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		682FA4FB1CF5427500B81932 /* Build configuration list for PBXNativeTarget "GallereeHome" */ = {
+		682FA4FB1CF5427500B81932 /* Build configuration list for PBXNativeTarget "Galleree" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				682FA4FC1CF5427500B81932 /* Debug */,
@@ -652,7 +654,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		682FA4FE1CF5427500B81932 /* Build configuration list for PBXNativeTarget "GallereeHomeTests" */ = {
+		682FA4FE1CF5427500B81932 /* Build configuration list for PBXNativeTarget "GallereeTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				682FA4FF1CF5427500B81932 /* Debug */,
@@ -661,7 +663,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		682FA5011CF5427500B81932 /* Build configuration list for PBXNativeTarget "GallereeHomeUITests" */ = {
+		682FA5011CF5427500B81932 /* Build configuration list for PBXNativeTarget "GallereeUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				682FA5021CF5427500B81932 /* Debug */,
